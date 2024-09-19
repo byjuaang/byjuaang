@@ -21,7 +21,7 @@
   <code><a href="https://www.instagram.com/byjuaang/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
+<p align="center" style='font-size:20px;'>
   <p align="center" style='font-size:20px;'>Hi, I'm Juan Antonio.<br> System Administrator & Web Developer (in progress...) from my house (Spain)</p>
   <!--<br>
   <br>
