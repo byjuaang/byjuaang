@@ -22,7 +22,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Juan Antonio , System Administrator & Web Developer (in progress...) from my house (Spain)
+  <h2>Hi, I'm Juan Antonio , System Administrator & Web Developer (in progress...) from my house (Spain)</h2>
   <!--<br>
   <br>
   🔬 I'm currently studying Web Application Development.
