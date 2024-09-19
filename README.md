@@ -83,6 +83,16 @@
 </p>
 <hr>
 
+<h2 align='center'>🎓Studies🎓</h2>
+<br>
+<p align='center'>
+
+
+</p>
+
+
+
+
 <!--
 
 <h2 align="center">⚡ Stats ⚡</h2>
