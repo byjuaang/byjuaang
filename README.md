@@ -52,16 +52,16 @@
 <h2 align="center">☠️ Languages & Frameworks & Tools & Abilities ☠️</h2>
 <br>
 <p align="center">
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Powershell" height="25" src="images/powershell.svg"></code>
-  <code><img title="Bash" height="25" src="images/bash.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
+  <code><img title="PHP" height="35" src="images/php.svg"></code>
+  <code><img title="Java" height="35" src="images/java-original.svg"></code>
+  <code><img title="HTML5" height="35" src="images/html5.svg"></code>
+  <code><img title="CSS" height="35" src="images/css.svg"></code>
+  <code><img title="GitHub" height="35" src="images/github.svg"></code>
+  <code><img title="MySQL" height="35" src="images/mysql.svg"></code>
+  <code><img title="Powershell" height="35" src="images/powershell.svg"></code>
+  <code><img title="Bash" height="35" src="images/bash.svg"></code>
+  <code><img title="Visual Studio Code" height="35" src="images/vscode.png"></code>
 
 
   
