@@ -41,8 +41,9 @@
   <br>
   <p align='center'>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fascinate+Inline&duration=3000&pause=500&color=F700D9C8&center=true&vCenter=true&repeat=false&width=435&lines=CONTACT+ME!!%F0%9F%98%80"     alt="Typing SVG" /></a>
-   <a align='center' href="mailto:byjuaang@gmail.com">CLICK HERE</a>
+  
   </p>
+   <a align='center' href="mailto:byjuaang@gmail.com">CLICK HERE</a>
 </p>
 
 <hr>
