@@ -12,6 +12,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&duration=3000&pause=500&color=09F7F4C8&center=true&vCenter=true&width=435&lines=System+Administrator+;Web+Developer+(in+progress...)!;Follow+me!!%F0%9F%98%80" alt="Typing SVG" /></a>
 </h1>
 
+<h1 align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fascinate+Inline&duration=3000&pause=500&color=F700D9C8&center=true&vCenter=true&repeat=false&width=435&lines=Follow+me!!%F0%9F%98%80" alt="Typing SVG" /></a>
+</h1>
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/juan-antonio-rubio-solana-563208309/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/byjuaang/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
