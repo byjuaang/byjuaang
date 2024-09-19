@@ -1,9 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=juanantonio.rubiosolana">
 
+<h1 align='left'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=600&duration=3000&pause=500&color=3EFF35&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I+am+Juan+Antonio" alt="Typing SVG" /></a>
+</h1>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&duration=3000&pause=500&color=3CF733C8&center=true&vCenter=true&width=435&lines=+I+am+Juan+Antonio;System+Administrator+;Web+Developer+(in+progress...)!;Follow+me!!%F0%9F%98%80" alt="Typing SVG" /></a>
+<h1 align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&duration=3000&pause=500&color=09F7F4C8&center=true&vCenter=true&width=435&lines=System+Administrator+" alt="Typing SVG" />  </a>
+</h1>
+
+<h1 align="right">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&duration=3000&pause=500&color=09F7F4C8&center=true&vCenter=true&width=435&lines=System+Administrator+;Web+Developer+(in+progress...)!;Follow+me!!%F0%9F%98%80" alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
