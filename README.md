@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=juanantonio.rubiosolana">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Anton&pause=1000&color=F7DC00&width=435&separator=%3C&lines=+I+am+Juan+Antonio;+System+Administrator;+And;+Web+Developer+(in+progress...)!" alt="Typing SVG" /></a>
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&pause=1000&color=F7DC00&center=true&vCenter=true&width=435&lines=+I+am+Juan+Antonio;System+Administrator+;And;Web+Developer+(in+progress...)!;Follow+me!!%F0%9F%98%80" alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
