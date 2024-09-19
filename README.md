@@ -22,10 +22,10 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Juan Antonio , System Administrator & Software Developer (in progress...) from my house (Spain)
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🔬 I'm currently studying Web Application Development.
   <br>
   🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
   <br>
