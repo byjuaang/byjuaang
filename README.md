@@ -23,7 +23,7 @@
 <br>
 <p align="center">
   Hi, I'm Juan Antonio , System Administrator & Software Developer (in progress...) from my house (Spain)
-  <br>
+  <!--<br>
   <br>
   🔬 I'm currently studying Web Application Development.
   <br>
@@ -38,7 +38,7 @@
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
+  <br>-->
   <p align='center'>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fascinate+Inline&duration=3000&pause=500&color=F700D9C8&center=true&vCenter=true&repeat=false&width=435&lines=CONTACT+ME!!%F0%9F%98%80"     alt="Typing SVG" /></a>
   <br>
