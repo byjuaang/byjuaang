@@ -8,8 +8,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&duration=3000&pause=500&color=09F7F4C8&center=true&vCenter=true&width=435&lines=System+Administrator+" alt="Typing SVG" />  </a>
 </h1>
 
-<h1 align="right">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&duration=3000&pause=500&color=09F7F4C8&center=true&vCenter=true&width=435&lines=System+Administrator+;Web+Developer+(in+progress...)!;Follow+me!!%F0%9F%98%80" alt="Typing SVG" /></a>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&duration=3000&pause=500&color=09F7F4C8&center=true&vCenter=true&width=435&lines=Web+Developer+(in+progress...)!" alt="Typing SVG" /></a>
 </h1>
 
 <h1 align='center'>
