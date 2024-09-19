@@ -20,7 +20,7 @@
   <code><a href="https://www.linkedin.com/in/juan-antonio-rubio-solana-563208309/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/byjuaang/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
-</br>
+<br>
 <p align="center" style='font-size:20px;'>
   Hi, I'm Juan Antonio.<br> System Administrator & Web Developer (in progress...) from my house (Spain)
   <!--<br>
