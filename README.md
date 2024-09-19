@@ -78,6 +78,8 @@
 </p>
 <hr>
 
+<!--
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -124,7 +126,6 @@
 </h4>
 
 
-<!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
