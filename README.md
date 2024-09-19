@@ -52,7 +52,7 @@
 <h2 align="center">☠️ Languages & Frameworks & Tools & Abilities ☠️</h2>
 <br>
 <p align="center">
-  <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
+  <code><img title="JavaScript" height="35" src="images/javascript.svg"></code>
   <code><img title="PHP" height="35" src="images/php.svg"></code>
   <code><img title="Java" height="35" src="images/java-original.svg"></code>
   <code><img title="HTML5" height="35" src="images/html5.svg"></code>
