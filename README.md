@@ -22,7 +22,7 @@
 </h5>
 <br>
 <p align="center" style='font-size:20px;'>
-  Hi, I'm Juan Antonio.<br> System Administrator & Web Developer (in progress...) from my house (Spain)
+  <span style="font-size: 43px;">Hi, I'm Juan Antonio.<br> System Administrator & Web Developer (in progress...) from my house (Spain)</span>
   <!--<br>
   <br>
   🔬 I'm currently studying Web Application Development.
