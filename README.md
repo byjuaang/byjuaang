@@ -1,168 +1,115 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=juanantonio.rubiosolana">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=byjuaang.byjuaang&left_color=%23121011&right_color=%230099ff">
 
-<h1 align='left'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=600&duration=3000&pause=500&color=3EFF35&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I+am+Juan+Antonio" alt="Typing SVG" /></a>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00ff99&height=200&section=header&text=Juan%20Antonio%20Rubio%20Solana&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System%20Administrator%20%7C%20Web%20Developer&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
 
-<h1 align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&duration=4000&pause=1000&color=09F7F4C8&center=true&vCenter=true&width=435&lines=System+Administrator%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-</h1>
+<div align="center">
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&duration=4000&pause=1000&color=09F7F4C8&center=true&vCenter=true&width=435&lines=Web+Developer!" alt="Typing SVG" /></a>
-</h1>
+### 💡 About Me
 
-<h1 align='right'>
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fascinate+Inline&duration=3000&pause=500&color=F700D9C8&center=true&vCenter=true&repeat=false&width=435&lines=Follow+me!!%F0%9F%98%80" alt="Typing SVG" /></a>
-</h1>
+```
+🌍  Based in Spain
+💼  System Administrator & Web Developer
+🎯  Passionate about infrastructure, informatic & clean code
+📫  Reach me at byjuaang@gmail.com
+```
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/juan-antonio-rubio-solana-563208309/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/juaannnrs_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 Education
+
+| Degree | Field |
+|--------|-------|
+| **Higher Technician** | Web Application Development (DAW) |
+| **Higher Technician** | System Administration & Networking (ASIR) |
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Tech Stack
+
+### Languages
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,bash,powershell&theme=dark" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,jquery&theme=dark" />
+
+### Databases & Infrastructure
+<img src="https://skillicons.dev/icons?i=mysql,linux,windows&theme=dark" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<!-- <img src="https://skillicons.dev/icons?i=docker&theme=dark" /> -->
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/byjuaang">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byjuaang&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0099ff&icon_color=00ff99&text_color=c9d1d9&ring_color=0099ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byjuaang&layout=compact&hide_border=true&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&langs_count=8" />
+</a>
+
 <br>
-<p align="center" style='font-size:20px;'>
-  Hi, I'm Juan Antonio.<br> I'm System Administrator & Web Developer from my house (Spain)
-  <!--<br>
-  <br>
-  🔬 I'm currently studying Web Application Development.
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>-->
-  <p align='center'>
-    <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fascinate+Inline&duration=3000&pause=500&color=F700D9C8&center=true&vCenter=true&repeat=false&width=435&lines=CONTACT+ME!!%F0%9F%98%80" alt="Typing SVG" />
-    <br></a>
-    <a href="mailto:byjuaang@gmail.com"><img title="Contact me" height="50" src="images/clickhere.svg"></a>
-  </p>
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=byjuaang&theme=dark&hide_border=true&background=0d1117&stroke=0099ff&ring=0099ff&fire=00ff99&currStreakLabel=0099ff&sideLabels=0099ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
 
-<hr>
-<h2 align="center">☠️ Languages & Frameworks & Tools & Abilities ☠️</h2>
-<br>
-<p align="center">
-  <code><img title="JavaScript" height="40" src="images/javascript.svg"></code>
-  <code><img title="PHP" height="40" src="images/php.svg"></code>
-  <code><img title="Java" height="40" src="images/java-original.svg"></code>
-  <code><img title="HTML5" height="40" src="images/html5.svg"></code>
-  <code><img title="CSS" height="40" src="images/css.svg"></code>
-  <code><img title="GitHub" height="40" src="images/github.svg"></code>
-  <code><img title="MySQL" height="40" src="images/mysql.svg"></code>
-  <code><img title="Powershell" height="40" src="images/powershell.svg"></code>
-  <code><img title="Bash" height="40" src="images/bash.svg"></code>
-  <code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
-
-
-  
-  <!--<code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>-->
-</p>
-<hr>
-
-<h2 align='center'>🎓Studies🎓</h2>
-<br>
-<p align='center'>
-
-
-</p>
-
-
-
+</div>
 
 <!--
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
+<div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+## 📈 Activity Graph
 
-<hr>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=byjuaang&bg_color=0d1117&color=c9d1d9&line=0099ff&point=00ff99&area=true&area_color=0099ff&hide_border=true" width="100%"/>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+
+---
+
+<div align="center">
+
+## 🎵 Currently Listening
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=0099ff&bar_color_cover=true" alt="Spotify" />
+</a>
+
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
+---
 -->
+
+<div align="center">
+
+## 📬 Connect With Me
+
+<a href="https://www.linkedin.com/in/juan-antonio-rubio-solana-563208309/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/juaannnrs_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:byjuaang@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00ff99&height=100&section=footer" width="100%"/>
