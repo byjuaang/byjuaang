@@ -40,10 +40,10 @@
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>-->
   <p align='center'>
+    <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fascinate+Inline&duration=3000&pause=500&color=F700D9C8&center=true&vCenter=true&repeat=false&width=435&lines=CONTACT+ME!!%F0%9F%98%80" alt="Typing SVG" />
-    <br>
+    <br></a>
     <a href="mailto:byjuaang@gmail.com"><img title="Contact me" height="50" src="images/clickhere.svg"></a>
-
   </p>
 
 </p>
